@@ -1,0 +1,12 @@
+{
+  "name": "confusion",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-native-scripts": "2.0.1"
+  },
+  "dependencies": {
+    "react-scripts": "^3.4.1"
+  },
+  
+ 

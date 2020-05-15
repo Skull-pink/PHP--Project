@@ -1,0 +1,66 @@
+
+/*
+.card-content{
+  background: #43C6AC; 
+background: -webkit-linear-gradient(to right, #F8FFAE, #43C6AC);  
+background: linear-gradient(to right, #F8FFAE, #43C6AC); 
+} */
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .card-img{
+    height:300px;
+  }
+  
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .card-img{
+    height:340px;
+  }
+  
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .card-img{
+  height:350px;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+  .card-img{
+    height:270px;
+  }
+  
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+  .card-img{
+    height:300px;
+  }
+
+}
+
+
+.particles{
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  display: inline-block;
+  background-image: radial-gradient(circle at bottom center,#0E2125,#081216);
+	top:0;
+  left: 0;
+  background-size: cover;
+}
+
+
+#selector{
+  background-color: #050507;
+}
